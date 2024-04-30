@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/riyasx07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed riyas" height="25" width="25" /></a>
-<a href="https://www.leetcode.com/riyasx07" target="blank"><img align="center" src="https://github.com/riyasx7/grocery_app/assets/137524841/b9228e52-ab28-4e7c-9356-a22a0772d8f3" alt="riyasx07" height="25" width="25" /></a>
+<a href="https://www.linkedin.com/in/riyasx07/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed riyas" height="25" width="25" /></a>
+<a href="https://www.leetcode.com/riyasx07" target="blank"><img align="left" src="https://github.com/riyasx7/grocery_app/assets/137524841/b9228e52-ab28-4e7c-9356-a22a0772d8f3" alt="riyasx07" height="25" width="25" /></a>
 <a href="https://portfolio-b3fd5.web.app/" target="blank"><img align="center" src="https://github.com/riyasx7/grocery_app/assets/137524841/89b8bbb7-ccc1-4847-8d34-06bbe564ea33" alt="riyasx07" height="25" width="25" /></a>
 </p>
 
