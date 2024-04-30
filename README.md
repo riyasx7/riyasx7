@@ -1,3 +1,9 @@
+<style>
+img{
+  padding-right : 20px;
+}
+</style>
+
 <h1 align="center">Hi 👋, I'm Mohammed riyas</h1>
 <h3 align="center">Results-driven Full stack Developer passionate about creating robust and scalable web applications. Proven expertise in both front-end and back-end technologies.</h3>
 
@@ -10,7 +16,7 @@
 <h2 align="left">Skills</h3>
 <h3 align="left">Programming Languages</h3>
 <p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img style= "border-radius : 50%"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
