@@ -49,7 +49,7 @@
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" style="background: white; padding: 5px;" />
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img align="left" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" height="25" style="background: white; padding: 5px;" />
+    <img align="left" src="https://github.com/riyasx7/grocery_app/assets/137524841/52945e14-5349-45b9-b482-cb55cdb74076" alt="spring" width="25" height="25" style="background: white; padding: 5px;" />
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="25" height="25" style="background: white; padding: 5px;" />
