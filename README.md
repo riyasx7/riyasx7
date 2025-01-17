@@ -68,5 +68,4 @@
   </a>
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/riyasx7/grocery_app/assets/137524841/c6ec590b-3def-4c33-96ac-51a2a8cea6e5" alt="unreal" width="25" height="25" style="background: white; padding: 5px;" />
-</p>
- <img src="https://github.com/riyasx7/grocery_app/assets/137524841/be1032f9-5d7e-4ad0-adf7-ad37f01aefc7" alt="leetcode" />
+
