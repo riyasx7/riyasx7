@@ -50,6 +50,9 @@
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25" style="background: white; padding: 5px;" />
+    <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+    <img align="left" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="firebase" width="25" height="25" style="background: white; padding: 5px;" />
+  </a>
 </p>
 
 <h3 align="left">Mobile Application Development</h3>
